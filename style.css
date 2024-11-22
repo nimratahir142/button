@@ -1,0 +1,63 @@
+body{
+    background-color: cadetblue;
+}
+.green{
+    background-color: green;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+}
+.red{
+    background-color: red;
+    color: white;
+    border: 2px solid rgb(65, 57, 57);
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+}
+.pink{
+    background-color: pink;
+    color: white;
+    border: 2px solid rgb(99, 83, 83);
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+}
+.black{
+    background-color: black;
+    color: whitesmoke;
+    border: 2px solid wheat;
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+}
+.white{
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+}
+.gray{
+    background-color: grey;
+    color: whitesmoke;
+    border: 2px solid white;
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+}
+button:hover{
+    background-color:whitesmoke;
+    color: black;
+}
